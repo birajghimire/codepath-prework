@@ -37,6 +37,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+Overall, the only challenge I encountered was getting farmilar with Xcode because it was my first time using it. Other than that, I thought that the instructions were very clear and I really enjoyed putting this project together. 
+
 ## License
 
     Copyright [2022] [Biraj Ghimire]
